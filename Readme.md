@@ -17,7 +17,7 @@ Here the language used is PHP and database used is MySQL.
 
 6. Import ccmsdb.sql file(given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/CyberCafeManagementSystem(frontend)
+7. Run the script http://localhost/CyberCafeManagementSystem(frontend)
 
 ## Credential for admin panel
 
