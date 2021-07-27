@@ -22,4 +22,5 @@ Here the language used is PHP and database used is MySQL.
 ## Credential for admin panel
 
 Username: admin
+
 Password: Test@123
