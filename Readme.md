@@ -9,15 +9,15 @@ Here the language used is PHP and database used is MySQL.
 
 2. Extract the file and copy Cyber Cafe Management System folder
 
-3. Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+3. Paste inside root directory (for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
 4. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
 5. Create a database with name ccmsdb
 
-6. Import ccmsdb.sql file(given inside the zip package in SQL file folder)
+6. Import ccmsdb.sql file (given inside the zip package in SQL file folder)
 
-7. Run the script http://localhost/CyberCafeManagementSystem(frontend)
+7. Run the script http://localhost/CyberCafeManagementSystem (frontend)
 
 ## Credential for admin panel
 
