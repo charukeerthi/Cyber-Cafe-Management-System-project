@@ -1,3 +1,9 @@
+<p align="center">
+ <img width="450px" src="https://mechomotive.com/wp-content/uploads/2021/06/DBMS.png" align="center" alt="GitHub Readme Stats" />
+ <h1 align="center">Cyber Cafe Management System</h1>
+ <p align="center">Get dynamically generated reports of users from your Cyber cafe!</p>
+</p>
+
 <p align="center">Love the project? Please consider <a href="">donating</a> to help it improve!
 <p>
 
@@ -61,4 +67,3 @@ Thanks! :heart:
 Contributions are welcome! <3
 
 Made with :heart: and JavaScript.
-
