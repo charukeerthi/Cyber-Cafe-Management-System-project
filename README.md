@@ -9,7 +9,7 @@
 
 # Introduction
 
-Cyber Cafe Management System is a Database Management System. It is a database which keeps records of daily users of Cyber Cafe. It is used to store, modify and view the records using XAMPP software.
+Cyber Cafe Management System is a Database Management System. It is a database which keeps records of daily users of Cyber Cafe. It is used to store, modify and view the records of the customers by the admin using XAMPP software.
 
 # Technology
 
