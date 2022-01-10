@@ -62,8 +62,6 @@ Cyber Cafe Management System has one module i.e admin.
 
 ---
 
-Thanks! :heart:
-
 Contributions are welcome! <3
 
 Made with :heart: and JavaScript.
