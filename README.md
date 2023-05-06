@@ -4,7 +4,7 @@
  <p align="center">Get dynamically generated reports of users from your Cyber cafe!</p>
 </p>
 
-<p align="center">Love the project? Please consider <a href="">donating</a> to help it improve!
+<p align="center">Love the project? Please consider <a href="https://drive.google.com/file/d/1t1Sv_rJ6R4Z9BV3s5luFUQkrx3kfaCJx/view">donating</a> to help it improve!
 <p>
 
 # Introduction
